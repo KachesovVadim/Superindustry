@@ -1,2 +1,2 @@
 # Superindustry
-Проект на Unreal Engine 5
+Прототип игры на Unreal Engine 5
