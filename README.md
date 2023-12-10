@@ -2,12 +2,14 @@
 Прототип игры на Unreal Engine 5.2.1 на BP&C++, которым я занимался несколько месяцев.
 
 (гиф)
+
 (гиф)
 
 Весь процесс разработки - https://habr.com/ru/users/OMEGA-quality/publications/articles/
+
 Обзор механик - (ссыль на ютуб)
 
-Главные механики
+## Главные механики
 
 - Инвентарь. Есть у нескольких механизмов и игрока.
 ![fb361a940578ed63454a4337f555bb10](https://github.com/KachesovVadim/Superindustry/assets/142095950/8e4c95b3-bd80-4619-ab73-c985303209ed)
