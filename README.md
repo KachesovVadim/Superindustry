@@ -10,7 +10,7 @@
 Главные механики
 
 - Инвентарь. Есть у нескольких механизмов и игрока.
-![image](https://github.com/KachesovVadim/Superindustry/assets/142095950/0f94574f-54dd-4207-8db5-5f720d38a77d)
+![fb361a940578ed63454a4337f555bb10](https://github.com/KachesovVadim/Superindustry/assets/142095950/8e4c95b3-bd80-4619-ab73-c985303209ed)
 
 - Механизмы. Написаны на C++. Могут взаимодействовать друг с другом и инвентарем.
 (работа карьера)
