@@ -1,9 +1,7 @@
 # Superindustry
 Прототип игры на Unreal Engine 5.2.1 на BP&C++, которым я занимался несколько месяцев. 
 
-(гиф)
-
-(гиф)
+![ezgif com-optimize (1)](https://github.com/KachesovVadim/Superindustry/assets/142095950/f4c364b7-ea4b-449b-b6d4-16b124c61c4d)
 
 Весь процесс разработки - https://habr.com/ru/users/OMEGA-quality/publications/articles/
 
@@ -25,11 +23,11 @@
 ![fb361a940578ed63454a4337f555bb10](https://github.com/KachesovVadim/Superindustry/assets/142095950/8e4c95b3-bd80-4619-ab73-c985303209ed)
 
 - Механизмы. Написаны на C++. Могут взаимодействовать друг с другом и инвентарем.
-(работа карьера)
+![ezgif com-optimize](https://github.com/KachesovVadim/Superindustry/assets/142095950/2fc95ba6-d019-49ed-92bc-0e0cbfe39096)
 
 - Журнал. В нем описывается сюжет
 ![image](https://github.com/KachesovVadim/Superindustry/assets/142095950/02ff3d78-256b-4c53-bed8-cf0026931e01)
-
   
 - Пульсирующий туман. Сложный материал.
-(пульсация тумана)
+![ezgif com-video-to-gif](https://github.com/KachesovVadim/Superindustry/assets/142095950/e0361034-55ed-4a03-b4ff-e61d79da830a)
+
